@@ -69,5 +69,7 @@ print()
 # 2. Ask the user for their hourly pay
 # 3. Convert both inputs to floats
 # 4. Calculate weekly pay
-# 5. Use an f-string to display the result
+# 5. Use an f-string to display the result as a currency.
 #    (Round to 2 decimal places)
+
+print()
